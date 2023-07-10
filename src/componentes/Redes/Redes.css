@@ -1,0 +1,54 @@
+#contatos {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(138, 50, 72, 0.5)), url('https://www.melhoresdestinos.com.br/wp-content/uploads/2022/10/canela-o-que-fazer65.jpg');
+    height: 60vh;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 5.0;
+}
+
+h1 {
+    color: rgb(226, 250, 14);
+}
+
+a {
+    display: flex;
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    border-color: none;
+    justify-content: center;
+}
+
+
+button {
+    border-radius: 20px;
+    background-color: rgb(38, 51, 107);
+ 
+}
+
+button img {
+    width: 100px;
+}
+
+@media screen and (max-width: 590px)   {
+    
+    #contatos {
+        height: 80vh;
+    }
+}
+
+@media screen and (max-height: 700px) {
+    
+    #contatos {
+        height: 100vh;
+    }
+}
+
+@media screen and (max-height: 400px) {
+    
+    #contatos {
+        height: 180vh;
+    }
+}

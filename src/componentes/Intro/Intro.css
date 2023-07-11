@@ -4,11 +4,9 @@
     background: linear-gradient(rgba(0,0,0,0.5), rgba(138, 50, 72, 0.5)), url('https://images.squarespace-cdn.com/content/v1/52c0b141e4b0b87925bacd01/1655145280486-0HT6XP9CZZUL7S8Z4E4F/EDU_6890.jpg?format=1500w');
     height: 750px;
     background-position: center;
-    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 5.0;
-    position: relative;
 }
 
 .fundo h1 {

@@ -17,6 +17,17 @@ const Redes = () => {
 
             </a>
 
+            <a href='https://api.whatsapp.com/message/IL6JZTRIQMNEF1?autoload=1&app_absent=0' target="_blank" rel="noopener noreferrer">
+
+                <button >
+                    <img 
+                        src='https://static.vecteezy.com/system/resources/previews/018/930/748/original/whatsapp-logo-whatsapp-icon-whatsapp-transparent-free-png.png' 
+                        alt='foto do Whatsapp' 
+                    />
+                </button>
+
+            </a>
+            
             <a href='https://www.linkedin.com/in/christiane-fontes-801a74281' target="_blank" rel="noopener noreferrer">
 
                 <button >

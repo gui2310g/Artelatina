@@ -16,11 +16,16 @@ const Produtos = () => {
                 </li>
 
                 <li>
-                    <img src='/imagens/coração.png' alt='placas de coração' />
+                    <img src='/imagens/astronauta.png' alt='astronauta de amigurumi' />
+                </li>
+
+
+                <li>
+                    <img src='/imagens/bailarina.png' alt='Bailarina de amigurumi' />
                 </li>
 
                 <li>
-                    <img src='/imagens/placa.png' alt='placas' />
+                    <img src='/imagens/coração.png' alt='coração' />
                 </li>
 
                 <li>

@@ -39,16 +39,11 @@
     box-shadow: 10px 5px 5px rgb(191, 33, 253);
 }
 
-@media screen and (max-height: 700px) {
-    
-    .apresentacao {
-        height: 100vh;
-    }
-}
-
-
 @media screen and (max-width: 630px)  {
     
+    .fundo {
+        height: 150vh;
+    }
     
     .apresentacao {
         display: flex;
@@ -62,21 +57,4 @@
     #texto {
         width: 350px;
     }
-}
-
-
-@media screen and (max-height: 700px)  {
-    
-    .fundo {
-        height: 130vh;
-    }
-  
-}
-
-@media screen and (max-height: 400px) {
-    
-    .fundo {
-        height: 180vh;
-    }
-
 }

@@ -16,15 +16,7 @@ const Produtos = () => {
                 </li>
 
                 <li>
-                    <img src='/imagens/shrek_amigurumi.png' alt='amigurumi do Shrek' />
-                </li>
-
-                <li>
                     <img src='/imagens/coração.png' alt='placas de coração' />
-                </li>
-
-                <li>
-                    <img src='/imagens/jacksparrow.png' alt='amigurumi do jack sparrow' />
                 </li>
 
                 <li>
@@ -34,10 +26,7 @@ const Produtos = () => {
                 <li>
                     <img src='/imagens/hellokitty_amigurumi.png' alt='amigurumi da hello kitty' />
                 </li>
-                
-                <li>
-                    <img src='/imagens/olhogordo.png' alt='olho gordo' />
-                </li>
+            
            </ul>
         </section>
     )
